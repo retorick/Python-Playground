@@ -22,4 +22,4 @@ def find_nth_prime(n):
         _i += 1
     return max(p)
 
-print find_nth_prime(10001)
+print find_nth_prime(11)
